@@ -1,3 +1,16 @@
+/etc/passwd
+/etc/hosts
+/data/runtime/mtmp/system
+/data/runtime/mtmp/lmdb/dataa/data.mdb
+/data/runtime/mtmp/lmdb/dataa/lock.mdb
+/data/runtime/mtmp/lmdb/randomVal/data.mdb
+/data/runtime/mtmp/lmdb/randomVal/lock.mdb
+/scripts/
+/scripts/final_cleanup.sh
+/etc/ssl/private/sentry.key
+/srv/sentry
+/etc/gcloud/jenkins-flatmap.json
+/home/iman/proj/cvsroot
 /v1/oauth2/certs
 /pf/JWKS
 /.well-known/apple-app-site-association
